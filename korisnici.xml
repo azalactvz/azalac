@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<korisnici>
+    <korisnik>
+        <ime>Pero</ime>
+        <prezime>Perić</prezime>
+        <username>peroperic</username>
+        <password>1234</password>
+        <rezervacija>NBA kviz</rezervacija>
+    </korisnik>
+    <korisnik>
+        <ime>Andrej</ime>
+        <prezime>Žalac</prezime>
+        <username>azalac</username>
+        <password>4321</password>
+        <rezervacija>Nogoemtni kviz</rezervacija>
+    </korisnik>
+    <korisnik>
+        <ime>Ivan</ime>
+        <prezime>Horvat</prezime>
+        <username>horvativan</username>
+        <password>55555</password>
+        <rezervacija>Kviz općeg znanja</rezervacija>
+    </korisnik>
+</korisnici>
